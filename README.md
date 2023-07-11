@@ -1,6 +1,6 @@
 # Dev-Luiz-Henrique
 <div align="center"> <strong>Hello World, meu nome é Luiz Henrique e sejam bem-vindos ao meu repositório <br>
-  Atualmente estudo: Python, Html e CSS e JavaScript <br>
+  Atualmente estudo: Java e JavaScript <br>
   Cursando: Análise e Desenvolvimento de Sistemas </strong></div> <br>
   
   <div style="display: block" align=center><br>
